@@ -1,0 +1,13 @@
+# Core Audio & AI Libraries
+soundfile
+huggingface_hub
+gradio
+# Text-to-Speech (Kokoro)
+kokoro-onnx[gpu]
+misaki[en,ja,zh]
+
+# Voice Conversion (Kanade)
+git+https://github.com/frothywater/kanade-tokenizer
+
+
+git+https://github.com/Ashish-Patnaik/kokoclone
